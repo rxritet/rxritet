@@ -61,9 +61,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
   [![Trophies](https://github-profile-trophy.vercel.app/?username=rxritet&theme=tokyonight&no-frame=true&row=1)](https://github.com/rxritet)
-</p>
 
 ---
 
