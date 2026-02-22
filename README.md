@@ -8,8 +8,7 @@
 
 ### Go Developer · Full-Stack Student · Almaty, KZ
 
-[![GitHub](https://github.com/rxritet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
 
 </div>
 
@@ -83,7 +82,7 @@
 
 - [x] Старт с Go — основы языка
 - [x] REST API на Go
-- [ ] Первый full-stack проект с Go бэкендом
+- [ ] Первый full-stack проект с Go бэкендона
 - [ ] CTF — Natas & Bandit серии
 - [ ] Первая роль разработчика 🚀
 
@@ -95,7 +94,6 @@
 
 **Открыт для стажировок, первых позиций и интересных проектов**
 
-[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
 
 </div>
