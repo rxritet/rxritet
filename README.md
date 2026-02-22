@@ -8,7 +8,7 @@
 
 ### Go Developer · Full-Stack Student · Almaty, KZ
 
-[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
+[![GitHub](https://github.com/rxritet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
 
 </div>
