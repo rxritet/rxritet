@@ -62,8 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=rxritet&theme=tokyonight&no-frame=true&row=1)](https://github.com/rxritet)
 </p>
 
 ---
