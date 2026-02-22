@@ -61,10 +61,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- После деплоя на Vercel замени YOUR_VERCEL_URL на свой домен -->
 <p align="left">
-  <img height="160" src="https://YOUR_VERCEL_URL/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://YOUR_VERCEL_URL/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
