@@ -61,23 +61,28 @@
 
 ## 📊 GitHub Stats
 
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=rxritet&theme=tokyonight&no-frame=true&row=1)](https://github.com/rxritet)
+<!-- После деплоя на Vercel замени YOUR_VERCEL_URL на свой домен -->
+<p align="left">
+  <img height="160" src="https://YOUR_VERCEL_URL/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://YOUR_VERCEL_URL/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 2026 Roadmap
 
 - [x] Start Go (Golang) fundamentals
-- [x] Build a REST API in Go
+- [ ] Build a REST API in Go
 - [ ] Complete first full-stack project with Go backend
 - [ ] Pass CTF — Natas & Bandit series
 - [ ] Land first developer role 🚀
 
 ---
 
-## 📬 Get in Touch
+## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=flat-square&logo=github)](https://github.com/rxritet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
 
 ---
 
