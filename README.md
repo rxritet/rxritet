@@ -71,7 +71,7 @@
 ## 🎯 2026 Roadmap
 
 - [x] Start Go (Golang) fundamentals
-- [ ] Build a REST API in Go
+- [x] Build a REST API in Go
 - [ ] Complete first full-stack project with Go backend
 - [ ] Pass CTF — Natas & Bandit series
 - [ ] Land first developer role 🚀
