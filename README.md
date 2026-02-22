@@ -1,88 +1,101 @@
-# Hey, I'm Radmir 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rxritet&color=blue&style=flat-square" alt="Profile views" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
-> 2nd-year CS student from **Almaty, Kazakhstan** — actively building toward my first developer role.
+<div align="center">
+
+<h1>Привет, я Радмир! 👋</h1>
+
+### Go Developer · Full-Stack Student · Almaty, KZ
+
+[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## О себе
 
-- 🎓 2nd year, Software Engineering
-- 🎯 Main goal — land a **Go / Full-Stack developer** role in 2026
-- ⚡ Currently deep-diving into **Go (Golang)** with a structured 6-month roadmap
-- 🔐 Interested in **Web Security** — CTF challenges (Natas, Bandit, OSINT)
-- 🌱 Also exploring **Machine Learning** (Pandas, NumPy, Seaborn)
-- 📍 Based in Almaty, KZ
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & DB**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Repository | Description | Stack |
-|---|---|---|
-| [GoLang-Education](https://github.com/rxritet/GoLang-Education) | Learning Go from scratch — exercises and mini-projects | Go |
-| [Frontend](https://github.com/rxritet/Frontend) | Coursework tasks — Frontend & Mobile development | TypeScript |
-| [Super-JavaScript](https://github.com/rxritet/Super-JavaScript) | Advanced JS practice and challenges | JavaScript |
-| [React-](https://github.com/rxritet/React-) | React components and routing experiments | JavaScript |
-| [Django-Education](https://github.com/rxritet/Django-Education) | Backend fundamentals with Django | Python |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="justify">
+Студент 2 курса Software Engineering из Алматы. Целенаправленно осваиваю Go для выхода на первую роль разработчика. Строю практические проекты на стыке frontend и backend, интересуюсь веб-безопасностью и CTF-челленджами. Ценю чёткие задачи, измеримый результат и структурированный подход к коду.
 </p>
 
 ---
 
-## 🎯 2026 Roadmap
+### Текущий фокус
 
-- [x] Start Go (Golang) fundamentals
-- [ ] Build a REST API in Go
-- [ ] Complete first full-stack project with Go backend
-- [ ] Pass CTF — Natas & Bandit series
-- [ ] Land first developer role 🚀
-
----
-
-## 📫 Get in Touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=flat-square&logo=github)](https://github.com/rxritet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+<p align="justify">
+• Глубокое изучение Go — структуры, горутины, REST API<br>
+• Full-stack разработка: React + TypeScript на фронте, Go/Django на бэке<br>
+• Веб-безопасность: CTF-задачи (Natas, Bandit, OSINT)<br>
+• Машинное обучение: основы с Pandas, NumPy, Seaborn<br>
+</p>
 
 ---
 
-<p align="center">⚡ <i>"Less water, more specifics."</i> ⚡</p>
+## Технологический стек
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python" />
+<img src="https://skillicons.dev/icons?i=react,vue,vite,html,css" />
+<img src="https://skillicons.dev/icons?i=django,postgres" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,linux" />
+
+</div>
+
+---
+
+## GitHub статистика
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+
+<img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api?username=rxritet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Проекты
+
+#### GoLang Education
+<p align="justify">
+Структурированное изучение Go с нуля — упражнения, мини-проекты и паттерны языка. Фокус на практическом применении горутин, каналов и стандартной библиотеки.
+</p>
+
+#### Frontend & Mobile Development
+<p align="justify">
+Репозиторий учебных задач по фронтенду и мобильной разработке. TypeScript, компонентный подход, адаптивная вёрстка.
+</p>
+
+#### Django Education
+<p align="justify">
+Основы backend-разработки на Python/Django: модели, ORM, REST эндпойнты, аутентификация.
+</p>
+
+---
+
+## Roadmap 2026
+
+- [x] Старт с Go — основы языка
+- [ ] REST API на Go
+- [ ] Первый full-stack проект с Go бэкендом
+- [ ] CTF — Natas & Bandit серии
+- [ ] Первая роль разработчика 🚀
+
+---
+
+## Контакты
+
+<div align="center">
+
+**Открыт для стажировок, первых позиций и интересных проектов**
+
+[![GitHub](https://img.shields.io/badge/GitHub-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radmir_Abraev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+
+</div>
