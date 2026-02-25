@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td align="right"><b>Backend & Базы данных</b></td>
-    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,node" alt="Backend"/></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend & Мобильная разработка</b></td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="right"><b>DevOps & Инструменты</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,figma,vscode" alt="Tools"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,figma,vscode,antigravity" alt="Tools"/></td>
   </tr>
 </table>
 
