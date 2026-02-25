@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="right"><b>DevOps & Инструменты</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,figma,vscode,antigravity" alt="Tools"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,figma,vscode" alt="Tools"/></td>
   </tr>
 </table>
 
