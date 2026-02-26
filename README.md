@@ -33,19 +33,23 @@
   </tr>
   <tr>
     <td align="right"><b>Backend & Базы данных</b></td>
-    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,node" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite,node" alt="Backend"/></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend & Мобильная разработка</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,html,css" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,flutter,html,css" alt="Frontend"/></td>
   </tr>
   <tr>
-    <td align="right"><b>DevOps & Инструменты</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,figma,vscode" alt="Tools"/></td>
+    <td align="right"><b>DevOps & Облако</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux" alt="DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Инструменты</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/></td>
   </tr>
 </table>
 
-> *Дополнительно в работе применяю: Django REST Framework (DRF), Zustand, TanStack React Query, React Hook Form, Zod и n8n.*
+> *Дополнительно в работе применяю: BoltDB, Django REST Framework (DRF), Zustand, TanStack React Query, React Hook Form, Zod и n8n.*
 
 ---
 
@@ -66,7 +70,7 @@
 
 ### Образовательные репозитории
 Пошаговое и структурированное освоение технологий с практическим кодом:
-- **[GoLang Education](https://github.com/rxritet/GoLang-Education):** Горутины, каналы, паттерны и REST API на Go.
+- **[GoLang Education](https://github.com/rxritet/GoLang-Education):** Горутины, каналы, паттерны, BoltDB и REST API на Go.
 - **[FastAPI](https://github.com/rxritet/FastAPI-Education) & [Django Education](https://github.com/rxritet/Django-Education):** Разработка API, ORM, модели, аутентификация.
 - **[Frontend & Mobile Education](https://github.com/rxritet/Frontend-Education):** Решение задач по TypeScript, React и адаптивной вёрстке.
 
