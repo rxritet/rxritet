@@ -14,7 +14,7 @@
 
 ---
 
-##О себе
+## О себе
 
 Студент 2-го курса Software Engineering. Моя цель — стать сильным Backend-разработчиком с основным фокусом на **Go** и пониманием всего цикла разработки (Full-Stack). Пишу чистый код, ценю конкретику, измеримые результаты и системный подход к задачам. 
 
@@ -22,7 +22,7 @@
 
 ---
 
-##Технологический стек
+## Технологический стек
 
 Используемые мной инструменты и технологии разбиты по логическим группам:
 
@@ -53,18 +53,18 @@
 
 Ниже представлены мои основные пет-проекты и образовательные репозитории, демонстрирующие практическое применение стека.
 
-###[SpoitHub — Delux](https://github.com/SpoitHub/delux)
+### [SpoitHub — Delux](https://github.com/SpoitHub/delux)
 **SaaS-платформа для спортивных мероприятий и маркетплейс экипировки.**
 - **Стек:** React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker.
 - **Архитектура:** Decoupled SPA с четким разделением Frontend и Backend.
 - **Функционал:** Ролевая модель, каталог событий, покупка билетов с генерацией QR-кодов, магазин товаров, REST API.
 
-###[Speakera](https://github.com/rxritet/Speakera)
+### [Speakera](https://github.com/rxritet/Speakera)
 **Кроссплатформенное Flutter-приложение для управления тестированием студентов языковых школ.**
 - **Стек:** Flutter, Dart, fl_chart.
 - **Функционал:** Ролевые дашборды (Админ/Студент), KPI метрики, расчет среднего балла, визуализация навыков (Skill breakdown), фильтрация по уровню риска.
 
-###Образовательные репозитории
+### Образовательные репозитории
 Пошаговое и структурированное освоение технологий с практическим кодом:
 - **[GoLang Education](https://github.com/rxritet/GoLang-Education):** Горутины, каналы, паттерны и REST API на Go.
 - **[FastAPI](https://github.com/rxritet/FastAPI-Education) & [Django Education](https://github.com/rxritet/Django-Education):** Разработка API, ORM, модели, аутентификация.
@@ -72,7 +72,7 @@
 
 ---
 
-##GitHub Статистика
+## GitHub Статистика
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-##Roadmap 2026
+## Roadmap 2026
 
 - [x] Старт с Go — основы языка, конкурентность
 - [x] REST API на Go / Python (Django, FastAPI)
