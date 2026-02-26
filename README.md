@@ -53,7 +53,7 @@
 
 Ниже представлены мои основные пет-проекты и образовательные репозитории, демонстрирующие практическое применение стека.
 
-### [SpoitHub — Delux](https://github.com/SpoitHub/delux)
+### [SpoitHub](https://github.com/SpoitHub/delux)
 **SaaS-платформа для спортивных мероприятий и маркетплейс экипировки.**
 - **Стек:** React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker.
 - **Архитектура:** Decoupled SPA с четким разделением Frontend и Backend.
