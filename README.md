@@ -80,7 +80,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=fffffff&fire=fffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api?username=rxritet&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" />
 <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
