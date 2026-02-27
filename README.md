@@ -22,6 +22,54 @@
 
 ---
 
+> [!IMPORTANT]
+> <details>
+> <summary><b>Ключевые компетенции</b></summary>
+>
+> <br>
+>
+> • <b>Backend-разработка на Go</b>: чистый net/http, Cobra CLI, Mage, работа с PostgreSQL и BoltDB, архитектурные паттерны (tx-in-context, domain/service/web)<br>
+> • <b>Full-Stack на Flutter/Dart</b>: Clean Architecture, Riverpod, Dart Shelf, WebSocket real-time, JWT-аутентификация<br>
+> • <b>Frontend-разрабка</b>: React 19, TypeScript, Tailwind CSS, TanStack Query, Zustand, Vite<br>
+> • <b>Python Backend</b>: Django REST Framework, FastAPI, ORM, миграции<br>
+> • <b>DevOps база</b>: Docker, nginx, systemd, rsync-деплой, GitHub Actions<br>
+> • <b>UI/UX</b>: прототипирование в Figma, адаптивная вёрстка, Material 3<br>
+>
+> </details>
+
+> [!IMPORTANT]
+> <details>
+> <summary><b>Текущий фокус</b></summary>
+>
+> <br>
+>
+> • <b>Specto</b> — production-готовое Go-приложение: дорабатываю деплой на VPS, настраиваю nginx + systemd<br>
+> • <b>HabitDuel</b> — дорабатываю FCM push-уведомления и систему друзей<br>
+> • <b>Go углубление</b>: продвинутые паттерны, обработка ошибок, тестирование (Testcontainers, фаззинг)<br>
+> • <b>Open Source проекты</b>: изучаю хорошо оформленные Go-репозитории, чтобы улучшать практику чтения чужого кода<br>
+> • <b>English B1 → B2</b>: целенаправленно прочитываю документацию и spec на английском<br>
+>
+> </details>
+
+> [!NOTE]
+> <details>
+> <summary><b>Опыт & деятельность</b></summary>
+>
+> <br>
+>
+> #### **AlmaU — IT-отдел | Стажировка**
+> Администрирование компьютерной сети ~200 пк, учёт оборудования по подразделениям, прокладка сети в ~100 кабинетах.
+>
+> #### **AlmaU — Отдел коммерциализации | Стажировка**
+> Верификация проектов, поддержка Instagram-аккаунта отдела, разработка 12-страничного сайта для департамента.
+>
+> #### **Самостоятельные проекты**
+> Specto (Go, production-ready), HabitDuel (Flutter + Dart Shelf, fullstack), SpoitHub (React + Django, SaaS).
+>
+> </details>
+
+---
+
 ## Технологический стек
 
 <table align="center" style="border: none;">
