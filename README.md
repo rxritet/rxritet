@@ -63,36 +63,6 @@
 >
 > </details>
 
-> [!NOTE]
-> <details>
-> <summary><b>Опыт & деятельность</b></summary>
->
-> <br>
->
-> #### 🏢 AlmaU — IT-отдел | Стажировка
-> Администрирование компьютерной сети ~200 ПК, учёт оборудования по подразделениям, прокладка сети в ~100 кабинетах.
->
-> #### 💼 AlmaU — Отдел коммерциализации | Стажировка
-> Верификация проектов, поддержка Instagram-аккаунта отдела, разработка 12-страничного сайта для департамента.
->
-> ---
->
-> #### ⚙️ [Specto](https://github.com/rxritet/Specto) — Go Task Manager
-> Производительное веб-приложение для управления задачами. Go 1.25, net/http, PostgreSQL + BoltDB, Cobra CLI, Mage, OpenTelemetry. Монолит с чёткими слоями, SIMD AVX2-агрегация, автодеплой через Mage → rsync → systemd.
->
-> #### ⚔️ [HabitDuel](https://github.com/rxritet/HabitDuel) — Fullstack Flutter App
-> Конкурентный трекер привычек. Flutter 3 + Dart Shelf + PostgreSQL. Clean Architecture, Riverpod, WebSocket real-time, JWT, бейджи, лидерборд, 1v1 дуэли с UTC-верификацией.
->
-> #### 🏟️ [SpoitHub](https://github.com/SpoitHub/delux) — Sports SaaS Platform
-> Платформа для спортивных мероприятий и маркетплейс экипировки. React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker. Decoupled SPA, ролевая модель, QR-билеты.
->
-> #### 📚 Образовательные репозитории
-> [GoLang Education](https://github.com/rxritet/GoLang-Education) — горутины, каналы, BoltDB, REST API.
-> [FastAPI](https://github.com/rxritet/FastAPI-Education) / [Django Education](https://github.com/rxritet/Django-Education) — API, ORM, аутентификация.
-> [Frontend & Mobile](https://github.com/rxritet/Frontend-Education) — TypeScript, React, адаптивная вёрстка.
->
-> </details>
-
 ---
 
 ## Технологический стек
@@ -137,32 +107,36 @@
 
 ---
 
-## Проекты
+> [!NOTE]
+> <details>
+> <summary><b>Опыт & деятельность</b></summary>
+>
+> <br>
+>
+> #### 🏢 AlmaU — IT-отдел | Стажировка
+> Администрирование компьютерной сети ~200 ПК, учёт оборудования по подразделениям, прокладка сети в ~100 кабинетах.
+>
+> #### 💼 AlmaU — Отдел коммерциализации | Стажировка
+> Верификация проектов, поддержка Instagram-аккаунта отдела, разработка 12-страничного сайта для департамента.
+>
+> ---
+>
+> #### ⚙️ [Specto](https://github.com/rxritet/Specto) — Go Task Manager
+> Производительное веб-приложение для управления задачами. Go 1.25, net/http, PostgreSQL + BoltDB, Cobra CLI, Mage, OpenTelemetry. Монолит с чёткими слоями, SIMD AVX2-агрегация, автодеплой через Mage → rsync → systemd.
+>
+> #### ⚔️ [HabitDuel](https://github.com/rxritet/HabitDuel) — Fullstack Flutter App
+> Конкурентный трекер привычек. Flutter 3 + Dart Shelf + PostgreSQL. Clean Architecture, Riverpod, WebSocket real-time, JWT, бейджи, лидерборд, 1v1 дуэли с UTC-верификацией.
+>
+> #### 🏟️ [SpoitHub](https://github.com/SpoitHub/delux) — Sports SaaS Platform
+> Платформа для спортивных мероприятий и маркетплейс экипировки. React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker. Decoupled SPA, ролевая модель, QR-билеты.
+>
+> #### 📚 Образовательные репозитории
+> [GoLang Education](https://github.com/rxritet/GoLang-Education) — горутины, каналы, BoltDB, REST API.
+> [FastAPI](https://github.com/rxritet/FastAPI-Education) / [Django Education](https://github.com/rxritet/Django-Education) — API, ORM, аутентификация.
+> [Frontend & Mobile](https://github.com/rxritet/Frontend-Education) — TypeScript, React, адаптивная вёрстка.
+>
+> </details>
 
-### [⚙️ Specto](https://github.com/rxritet/Specto)
-**Производительное веб-приложение для управления задачами на Go.**
-- **Стек:** Go 1.25, net/http (Go 1.22+ pattern matching), PostgreSQL, BoltDB, Cobra CLI, Mage, OpenTelemetry, Testcontainers.
-- **Архитектура:** Монолит с чёткими слоями (domain / service / web), tx-in-context, UI Decorator-паттерн, go:embed assets.
-- **Особенности:** SIMD AVX2-агрегация на amd64 с pure-Go fallback; двойная стратегия БД (BoltDB dev / PostgreSQL prod); автодеплой через Mage → rsync → systemd.
-
-### [⚔️ HabitDuel](https://github.com/rxritet/HabitDuel)
-**Fullstack Dart-приложение для соревновательного трекинга привычек.**
-- **Стек:** Flutter 3, Riverpod 2.5, Dio, WebSocket — клиент; Dart Shelf, PostgreSQL, JWT — сервер.
-- **Архитектура:** Clean Architecture на клиенте (domain / data / presentation); слоистый бэкенд (handlers / services / middleware / websocket / cron).
-- **Функционал:** 1v1 дуэли, ежедневные check-in'ы с UTC-верификацией, real-time обновления через WebSocket, лидерборд, бейджи, локальные push-уведомления.
-
-### [🏟️ SpoitHub](https://github.com/SpoitHub/delux)
-**SaaS-платформа для спортивных мероприятий и маркетплейс экипировки.**
-- **Стек:** React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker.
-- **Архитектура:** Decoupled SPA — чёткое разделение Frontend и Backend.
-- **Функционал:** Ролевая модель, каталог событий, билеты с QR-кодами, магазин товаров, REST API.
-
-### Образовательные репозитории
-- **[GoLang Education](https://github.com/rxritet/GoLang-Education):** Горутины, каналы, паттерны, BoltDB и REST API на Go.
-- **[FastAPI](https://github.com/rxritet/FastAPI-Education) & [Django Education](https://github.com/rxritet/Django-Education):** API, ORM, модели, аутентификация.
-- **[Frontend & Mobile Education](https://github.com/rxritet/Frontend-Education):** TypeScript, React, адаптивная вёрстка.
-
----
 
 ## Roadmap 2026
 
