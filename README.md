@@ -18,7 +18,7 @@
 
 Студент 2-го курса Software Engineering. Моя цель — стать сильным Backend-разработчиком с основным фокусом на **Go** и пониманием всего цикла разработки (Full-Stack). Пишу чистый код, ценю конкретику, измеримые результаты и системный подход к задачам.
 
-Сейчас активно работаю над собственными проектами, расширяю стек технологий и открыт к первым коммерческим ролям.
+Сейчас активно работаю над собственными проектами, расширяю стек технологий — в том числе начинаю **Rust** — и открыт к первым коммерческим ролям.
 
 ---
 
@@ -30,10 +30,12 @@
 >
 > • <b>Backend-разработка на Go</b>: чистый net/http, Cobra CLI, Mage, работа с PostgreSQL и BoltDB, архитектурные паттерны (tx-in-context, domain/service/web)<br>
 > • <b>Full-Stack на Flutter/Dart</b>: Clean Architecture, Riverpod, Dart Shelf, WebSocket real-time, JWT-аутентификация<br>
-> • <b>Frontend-разработка</b>: React 19, TypeScript, Tailwind CSS, TanStack Query, Zustand, Vite<br>
+> • <b>Frontend-разработка</b>: React 19, TypeScript strict (без any, DTO/env/runtime-валидация), Tailwind CSS, TanStack Query, Zustand, Vite; стек не ограничен React/Node<br>
 > • <b>Python Backend</b>: Django REST Framework, FastAPI, ORM, миграции<br>
 > • <b>DevOps база</b>: Docker, nginx, systemd, rsync-деплой, GitHub Actions<br>
 > • <b>UI/UX</b>: прототипирование в Figma, адаптивная вёрстка, Material 3<br>
+> • <b>Веб-безопасность</b>: XSS, CSRF, HSTS, SQL-инъекции, основы OSINT; практика на TryHackMe и CyberDefenders<br>
+> • <b>Rust (начальный уровень)</b>: ownership, borrowing, cargo, clippy, rustfmt; строю первый pet-проект<br>
 >
 > </details>
 
@@ -55,6 +57,9 @@
 > <b>Первый прототип в Figma — в процессе</b><br>
 > Проектирую UI/UX для следующего проекта: адаптивные компоненты, design system, переходы между экранами.
 >
+> <b>Rust — старт 🦀</b><br>
+> Изучаю ownership/borrowing на практике, пишу clippy-чистый код, читаю The Book и разбираю примеры с акцентом на безопасную работу с памятью. Цель — первый рабочий pet-проект.
+>
 > <b>n8n — собственная система автоматизации</b><br>
 > Строю no-code/low-code воркфлоуы: автоматизация GitHub уведомлений, парсинг данных, Telegram-боты и персональный дашборд разработчика.
 >
@@ -70,7 +75,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="right"><b>Языки программирования</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,py,ts,js,dart" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=go,rust,py,ts,js,dart" alt="Languages"/></td>
   </tr>
   <tr>
     <td align="right"><b>Backend & Базы данных</b></td>
@@ -90,7 +95,7 @@
   </tr>
 </table>
 
-> *Дополнительно в работе применяю: BoltDB, OpenTelemetry (slog/otelslog), Testcontainers, Mage, n8n, Django REST Framework, Zustand, TanStack Query, React Hook Form, Zod.*
+> *Дополнительно в работе применяю: BoltDB, OpenTelemetry (slog/otelslog), Testcontainers, Mage, n8n, Django REST Framework, Zustand, TanStack Query, React Hook Form, Zod. Rust-экосистема: cargo, clippy, rustfmt.*
 
 ---
 
@@ -119,6 +124,9 @@
 > #### AlmaU — Отдел коммерциализации | Стажировка
 > Верификация проектов, поддержка Instagram-аккаунта отдела, разработка 12-страничного сайта для департамента.
 >
+> #### AlmaU — Ассистент лаборатории
+> Вёл практические занятия по продвинутому JavaScript и фронтенд-разработке: TypeScript, React, адаптивная вёрстка, разбор реальных заданий.
+>
 > ---
 >
 > #### [Specto](https://github.com/rxritet/Specto) — Go Task Manager
@@ -135,6 +143,9 @@
 > [FastAPI](https://github.com/rxritet/FastAPI-Education) / [Django Education](https://github.com/rxritet/Django-Education) — API, ORM, аутентификация.
 > [Frontend & Mobile](https://github.com/rxritet/Frontend-Education) — TypeScript, React, адаптивная вёрстка.
 >
+> #### CTF & Веб-безопасность
+> Практикую навыки защиты на TryHackMe и CyberDefenders: XSS, SQL-инъекции, CSRF, OSINT, анализ трафика.
+>
 > </details>
 
 
@@ -142,10 +153,11 @@
 
 - [x] Старт с Go — основы языка, конкурентность
 - [x] REST API на Go / Python (Django, FastAPI)
-- [ ] Первый full-stack проект с Go бэкендом 
-- [ ] Первое функциональное мобильное приложение 
+- [x] Первый full-stack проект с Go бэкендом (Specto)
+- [x] Первое функциональное мобильное приложение (HabitDuel)
+- [x] Деплой production-проекта на VPS (systemd + nginx)
 - [ ] Первый рабочий Figma прототип
-- [ ] Деплой production-проекта на VPS (systemd + nginx)
+- [ ] Первый pet-проект на Rust 🦀
 - [ ] **Первая коммерческая роль разработчика 🚀**
 
 ---
