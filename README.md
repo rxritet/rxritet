@@ -151,9 +151,9 @@
 
 - [x] Старт с Go — основы языка, конкурентность
 - [x] REST API на Go / Python (Django, FastAPI)
-- [x] Первый full-stack проект с Go бэкендом (Specto)
-- [x] Первое функциональное мобильное приложение (HabitDuel)
-- [x] Деплой production-проекта на VPS (systemd + nginx)
+- [ ] Первый full-stack проект с Go бэкендом (Specto)
+- [ ] Первое функциональное мобильное приложение (HabitDuel)
+- [ ] Деплой production-проекта на VPS (systemd + nginx)
 - [ ] Первый рабочий Figma прототип
 - [ ] Первый pet-проект на Rust 🦀
 - [ ] **Первая коммерческая роль разработчика 🚀**
