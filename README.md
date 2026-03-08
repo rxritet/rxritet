@@ -4,11 +4,15 @@
 
 <div align="center">
 
-<h1>Привет, я Радмир!</h1>
+# Привет, я Радмир 👋
 
-### Backend/Go Developer · Full-Stack · Almaty, KZ
+### FullStack Developer · Backend Focus · Almaty, KZ
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraevradmir2@gmail.com)
+Студент 2 курса Software Engineering.  
+Собираю production-like pet projects с фокусом на backend, архитектуру, тестируемость и понятную поставку в production.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraevradmir2@gmail.com)
 
 </div>
 
@@ -16,55 +20,103 @@
 
 ## О себе
 
-Студент 2-го курса Software Engineering. Моя цель — стать сильным Backend-разработчиком с основным фокусом на **Go** и пониманием всего цикла разработки (Full-Stack). Пишу чистый код, ценю конкретику, измеримые результаты и системный подход к задачам.
+Я FullStack-разработчик с сильным уклоном в backend и инженерный подход к разработке.  
+Мне важно не просто написать код, а довести проект до состояния, где его можно запустить, протестировать, развернуть и поддерживать.
 
-Сейчас активно работаю над собственными проектами, расширяю стек технологий — в том числе начинаю **Rust** — и открыт к первым коммерческим ролям.
+Сейчас я:
+- Развиваюсь в FullStack-разработке с упором на backend.
+- Строю pet-projects, которые показывают не только стек, но и мышление.
+- Работаю с Go, TypeScript, Flutter/Dart, Python и начинаю Rust.
+- Ищу первую коммерческую роль: internship / junior developer.
 
 ---
 
 > [!IMPORTANT]
 > <details>
-> <summary><b>Ключевые компетенции</b></summary>
+> <summary><b>Почему мой профиль может быть интересен компании</b></summary>
 >
 > <br>
 >
-> • <b>Backend-разработка на Go</b>: чистый net/http, Cobra CLI, Mage, работа с PostgreSQL и BoltDB, архитектурные паттерны (tx-in-context, domain/service/web)<br>
-> • <b>Full-Stack на Flutter/Dart</b>: Clean Architecture, Riverpod, Dart Shelf, WebSocket real-time, JWT-аутентификация<br>
-> • <b>Frontend-разработка</b>: React 19, TypeScript strict (без any, DTO/env/runtime-валидация), Tailwind CSS, TanStack Query, Zustand, Vite; стек не ограничен React/Node<br>
-> • <b>Python Backend</b>: Django REST Framework, FastAPI, ORM, миграции<br>
-> • <b>DevOps база</b>: Docker, nginx, systemd, rsync-деплой, GitHub Actions<br>
-> • <b>UI/UX</b>: прототипирование в Figma, адаптивная вёрстка, Material 3<br>
-> • <b>Веб-безопасность</b>: XSS, CSRF, HSTS, SQL-инъекции, основы OSINT; практика на TryHackMe и CyberDefenders<br>
-> • <b>Rust (начальный уровень)</b>: ownership, borrowing, cargo, clippy, rustfmt; строю первый pet-проект<br>
+> Я не ограничиваюсь только учебными CRUD-задачами и стараюсь делать проекты так, чтобы в них были видны инженерные решения:
+>
+> - продуманная структура кода, а не набор случайных файлов;
+> - явная обработка ошибок;
+> - разделение слоёв ответственности;
+> - запуск и конфигурация без лишней магии;
+> - работа с БД, API, аутентификацией и реальными сценариями;
+> - деплой, CI/CD и эксплуатационная часть там, где это уместно.
+>
+> Я быстро вхожу в новую область, люблю разбираться в деталях и комфортно чувствую себя в формате "получить задачу → понять контекст → довести до рабочего результата".
 >
 > </details>
 
-> [!IMPORTANT]
-> <details>
-> <summary><b>Текущий фокус</b></summary>
+---
+
+## Избранные проекты
+
+> [!NOTE]
+> <details open>
+> <summary><b>Featured Projects</b></summary>
 >
 > <br>
 >
-> <b>Глубокое изучение Go</b><br>
-> Продвинутые паттерны конкурентности, грамотная обработка ошибок, тестирование (Testcontainers + фаззинг), чтение хорошо оформленных open-source репозиториев.
+> ### [Specto](https://github.com/rxritet/Specto)
+> **Backend-first приложение для управления задачами и личной продуктивностью.**
 >
-> <b>Первый Full-Stack проект</b><br>
-> Specto: production-ready Go-приложение с чистым net/http, двойной стратегией БД и автодеплоем через Mage → rsync → systemd.
+> Что показывает проект:
+> - Go backend без лишней магии, с акцентом на читаемость и контроль.
+> - Работа с `net/http`, PostgreSQL, BoltDB, Cobra CLI, Mage, OpenTelemetry.
+> - Продуманная структура приложения и разделение ответственности по слоям.
+> - Production-like подход: конфиг, логирование, доставка, эксплуатация.
 >
-> <b>Первое мобильное приложение</b><br>
-> HabitDuel: fullstack Flutter + Dart Shelf, 1v1 дуэли, WebSocket real-time, JWT, Clean Architecture.
+> Почему это важно для компании:
+> - проект показывает, что я умею думать не только про endpoint, но и про весь жизненный цикл сервиса;
+> - умею собирать backend, который можно развивать, а не переписывать после первой итерации.
 >
-> <b>Первый прототип в Figma — в процессе</b><br>
-> Проектирую UI/UX для следующего проекта: адаптивные компоненты, design system, переходы между экранами.
+> ---
 >
-> <b>Rust — старт 🦀</b><br>
-> Изучаю ownership/borrowing на практике, пишу clippy-чистый код, читаю The Book и разбираю примеры с акцентом на безопасную работу с памятью. Цель — первый рабочий pet-проект.
+> ### [HabitDuel](https://github.com/rxritet/HabitDuel)
+> **Fullstack mobile app для дуэлей по привычкам в формате 1v1.**
 >
-> <b>n8n — собственная система автоматизации</b><br>
-> Строю no-code/low-code воркфлоуы: автоматизация GitHub уведомлений, парсинг данных, Telegram-боты и персональный дашборд разработчика.
+> Что показывает проект:
+> - связку мобильного клиента и backend-логики;
+> - работу с Flutter, Dart Shelf, PostgreSQL, JWT, WebSocket и Riverpod;
+> - real-time взаимодействие, состояние пользователя, правила игры и валидацию сценариев;
+> - применение Clean Architecture в реальном продукте, а не в абстрактном примере.
 >
-> 🇬🇧 <b>English B1 → B2</b><br>
-> Целенаправленно читаю документацию и spec на английском, смотрю технические доклады без субтитров.
+> Почему это важно для компании:
+> - проект показывает, что я умею держать в голове и клиент, и сервер, и пользовательский сценарий;
+> - это уже не просто "экран + кнопка", а полноценный продуктовый кейс.
+>
+> ---
+>
+> ### [MyTech](https://github.com/rxritet/MyTech)
+> **Сайт-визитка для показа работ, проектов и личного позиционирования.**
+>
+> Что показывает проект:
+> - умение упаковывать результат;
+> - аккуратную работу с интерфейсом и структурой;
+> - понимание, что developer profile и personal branding тоже важны.
+>
+> ---
+>
+> ### [Velora](https://github.com/rxritet/Velora)
+> **Первый pet-project на Rust.**
+>
+> Что показывает проект:
+> - системный вход в новый язык;
+> - интерес к безопасному и строгому программированию;
+> - готовность выходить за рамки привычного стека.
+>
+> ---
+>
+> ### [SpoitHub / delux](https://github.com/SpoitHub/delux)
+> **Командный fullstack-проект в домене sports / events / marketplace.**
+>
+> Что показывает проект:
+> - работу в более сложном продуктовом контексте;
+> - взаимодействие фронтенда и backend API;
+> - навыки командной разработки и более "боевую" структуру продукта.
 >
 > </details>
 
@@ -75,27 +127,179 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="right"><b>Языки программирования</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,rust,py,ts,js,dart" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=go,rust,py,ts,js,dart" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="right"><b>Backend & Базы данных</b></td>
-    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite,node" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite,node" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend & Мобильная разработка</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,flutter,html,css" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,flutter,html,css" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td align="right"><b>DevOps & Облако</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux" alt="DevOps"/></td>
+    <td align="right"><b>DevOps & Инфраструктура</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,github" alt="DevOps" /></td>
   </tr>
   <tr>
     <td align="right"><b>Инструменты</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /></td>
   </tr>
 </table>
 
-> *Дополнительно в работе применяю: BoltDB, OpenTelemetry (slog/otelslog), Testcontainers, Mage, n8n, Django REST Framework, Zustand, TanStack Query, React Hook Form, Zod. Rust-экосистема: cargo, clippy, rustfmt.*
+> [!TIP]
+> <details>
+> <summary><b>Что реально использую в проектах</b></summary>
+>
+> <br>
+>
+> **Backend**
+>
+> - Go: `net/http`, CLI tooling, слоистая архитектура, явные ошибки.
+> - Python: FastAPI, Django REST Framework, ORM, миграции.
+> - TypeScript/Node: API-слой, строгая типизация, работа с DTO и валидацией.
+>
+> **Data**
+>
+> - PostgreSQL.
+> - SQLite.
+> - BoltDB.
+>
+> **Frontend / Mobile**
+>
+> - React, TypeScript, Tailwind CSS, Vite.
+> - Flutter, Riverpod.
+>
+> **DevOps / Delivery**
+>
+> - Docker.
+> - GitHub Actions.
+> - nginx.
+> - systemd.
+> - rsync-deploy.
+> - Linux-based workflow.
+>
+> **Качество и инженерные практики**
+>
+> - structured logging;
+> - env-based config;
+> - тестируемая архитектура;
+> - observability basics;
+> - runtime validation на границах;
+> - аккуратная работа с формой и состоянием.
+>
+> **Дополнительно**
+>
+> - Mage.
+> - OpenTelemetry / `slog`.
+> - TanStack Query.
+> - Zustand.
+> - React Hook Form.
+> - Zod.
+> - Figma.
+> - n8n.
+> - cargo / clippy / rustfmt.
+>
+> </details>
+
+---
+
+> [!IMPORTANT]
+> <details>
+> <summary><b>Ключевые инженерные принципы</b></summary>
+>
+> <br>
+>
+> Я стараюсь писать код так, чтобы он был удобен для чтения, развития и передачи другому разработчику.
+>
+> Мои ориентиры:
+>
+> - простая и объяснимая структура проекта;
+> - явные ошибки вместо "молчаливой магии";
+> - типы и валидация на границах;
+> - конфиг через env;
+> - логирование и диагностируемость;
+> - минимально необходимая сложность;
+> - код как рабочий инструмент, а не демонстрация трюков.
+>
+> В backend-задачах мне особенно интересны:
+>
+> - архитектура приложений;
+> - API design;
+> - работа с данными;
+> - надёжность;
+> - тестируемость;
+> - производительность там, где она действительно нужна.
+>
+> </details>
+
+---
+
+## Текущий фокус
+
+> [!IMPORTANT]
+> <details>
+> <summary><b>Что я развиваю прямо сейчас</b></summary>
+>
+> <br>
+>
+> **FullStack-позиционирование с сильным backend-фокусом**
+>
+> Я не хочу ограничивать себя одним ярлыком вроде "только Go", потому что мои проекты уже охватывают backend, frontend, mobile и инфраструктурную часть.
+>
+> **Go и production mindset**
+>
+> Углубляюсь в Go не на уровне синтаксиса, а на уровне инженерного применения: структура сервиса, конфигурация, обработка ошибок, тестируемость, работа с данными, деплой и эксплуатация.
+>
+> **Сильные pet-projects как портфолио**
+>
+> Собираю проекты так, чтобы они выглядели как аргумент для компании: "этот человек умеет не просто учиться, а доводить систему до внятного состояния".
+>
+> **Rust как следующий этап роста**
+>
+> Начинаю строить фундамент в Rust через практику, ownership/borrowing и аккуратный безопасный код.
+>
+> **Английский и чтение документации**
+>
+> Регулярно читаю документацию, статьи, спецификации и технические материалы на английском.
+>
+> </details>
+
+---
+
+## Опыт и деятельность
+
+> [!NOTE]
+> <details>
+> <summary><b>Experience & Activity</b></summary>
+>
+> <br>
+>
+> ### AlmaU — IT-отдел | Стажировка
+>
+> - Администрирование и сопровождение компьютерной инфраструктуры.
+> - Учёт оборудования и работа с технической организацией рабочих мест.
+> - Практика в реальной среде, где важны ответственность, аккуратность и системность.
+>
+> ### AlmaU — Отдел коммерциализации | Стажировка
+>
+> - Верификация проектов.
+> - Поддержка digital-направления подразделения.
+> - Разработка сайта для университетского департамента.
+>
+> ### AlmaU — Ассистент лаборатории
+>
+> - Помощь в проведении занятий по Advanced JavaScript и frontend-разработке.
+> - Разбор задач по TypeScript, React и адаптивной вёрстке.
+> - Поддержка студентов в отладке, объяснении решений и разборе ошибок.
+>
+> ### Практический интерес вне учебной программы
+>
+> - Web security basics: XSS, CSRF, HSTS, SQL injection, OSINT.
+> - Практика через TryHackMe и CyberDefenders.
+> - Изучение реальных подходов к защите и анализу поведения веб-приложений.
+>
+> </details>
 
 ---
 
@@ -110,59 +314,69 @@
 
 ---
 
-> [!NOTE]
+## Roadmap 2026
+
+> [!TIP]
 > <details>
-> <summary><b>Опыт & деятельность</b></summary>
+> <summary><b>Что хочу усилить в ближайшее время</b></summary>
 >
 > <br>
 >
-> #### AlmaU — IT-отдел | Стажировка
-> Администрирование компьютерной сети ~200 ПК, учёт оборудования по подразделениям, прокладка сети в ~100 кабинетах.
->
-> #### AlmaU — Отдел коммерциализации | Стажировка
-> Верификация проектов, поддержка Instagram-аккаунта отдела, разработка 12-страничного сайта для департамента.
->
-> #### AlmaU — Ассистент лаборатории
-> Вёл практические занятия по продвинутому JavaScript и фронтенд-разработке: TypeScript, React, адаптивная вёрстка, разбор реальных заданий.
->
-> ---
->
-> #### [Specto](https://github.com/rxritet/Specto) — Go Task Manager
-> Производительное веб-приложение для управления задачами. Go 1.25, net/http, PostgreSQL + BoltDB, Cobra CLI, Mage, OpenTelemetry. Монолит с чёткими слоями, SIMD AVX2-агрегация, автодеплой через Mage → rsync → systemd.
->
-> #### [HabitDuel](https://github.com/rxritet/HabitDuel) — Fullstack Flutter App
-> Конкурентный трекер привычек. Flutter 3 + Dart Shelf + PostgreSQL. Clean Architecture, Riverpod, WebSocket real-time, JWT, бейджи, лидерборд, 1v1 дуэли с UTC-верификацией.
->
-> #### [SpoitHub](https://github.com/SpoitHub/delux) — Sports SaaS Platform
-> Платформа для спортивных мероприятий и маркетплейс экипировки. React 19, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL, Docker. Decoupled SPA, ролевая модель, QR-билеты.
->
-> #### Образовательные репозитории
-> [GoLang Education](https://github.com/rxritet/GoLang-Education) — горутины, каналы, BoltDB, REST API.
-> [FastAPI](https://github.com/rxritet/FastAPI-Education) / [Django Education](https://github.com/rxritet/Django-Education) — API, ORM, аутентификация.
-> [Frontend & Mobile](https://github.com/rxritet/Frontend-Education) — TypeScript, React, адаптивная вёрстка.
->
-> #### CTF & Веб-безопасность
-> Практикую навыки защиты на TryHackMe и CyberDefenders: XSS, SQL-инъекции, CSRF, OSINT, анализ трафика.
+> - [x] Укрепить фундамент в Go.
+> - [x] Собрать несколько fullstack-проектов.
+> - [x] Получить опыт с REST API и backend-фреймворками.
+> - [ ] Усилить production-подход в pet-projects.
+> - [ ] Добавить больше тестов и CI-сценариев в ключевые репозитории.
+> - [ ] Довести Rust-проект до законченного состояния.
+> - [ ] Сделать профиль и проекты ещё сильнее с точки зрения упаковки.
+> - [ ] Получить первую коммерческую роль разработчика.
 >
 > </details>
 
+---
 
-## Roadmap 2026
+## Что я ищу
 
-- [x] Старт с Go — основы языка, конкурентность
-- [x] REST API на Go / Python (Django, FastAPI)
-- [ ] Первый full-stack проект с Go бэкендом (Specto)
-- [ ] Первое функциональное мобильное приложение (HabitDuel)
-- [ ] Деплой production-проекта на VPS (systemd + nginx)
-- [ ] Первый рабочий Figma прототип
-- [ ] Первый pet-проект на Rust 🦀
-- [ ] **Первая коммерческая роль разработчика 🚀**
+> [!IMPORTANT]
+> <details open>
+> <summary><b>Open to Opportunities</b></summary>
+>
+> <br>
+>
+> Сейчас мне интересны:
+>
+> - internship;
+> - junior fullstack role;
+> - junior backend role;
+> - команды, где ценятся качество кода, рост и инженерная культура.
+>
+> Что я могу дать с первого этапа:
+>
+> - быструю обучаемость;
+> - высокий уровень вовлечённости;
+> - дисциплину и ответственность;
+> - системный подход к задачам;
+> - готовность выполнять тестовые задания и доводить их до качественного результата.
+>
+> Если вам нужен junior-разработчик, который реально любит разбираться в коде, доводить проекты до рабочего состояния и быстро расти в команде — буду рад контакту.
+>
+> </details>
+
+---
+
+## Контакты
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraevradmir2@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Готов к тестовым заданиям, стажировкам и продуктивной работе**
+**Open to internships, junior roles, and technical test assignments**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraevradmir2@gmail.com)
 </div>
