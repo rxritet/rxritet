@@ -56,7 +56,7 @@
 ## Избранные проекты
 
 > [!NOTE]
-> <details open>
+> <details>
 > <summary><b>Featured Projects</b></summary>
 >
 > <br>
@@ -339,7 +339,7 @@
 ## Что я ищу
 
 > [!IMPORTANT]
-> <details open>
+> <details>
 > <summary><b>Open to Opportunities</b></summary>
 >
 > <br>
