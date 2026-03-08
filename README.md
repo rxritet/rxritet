@@ -308,8 +308,21 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
-<img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=011117" />
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="495" />
+      <br />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="495" />
+      <br />
+      <img height="160" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=011117" />
+      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="495" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
