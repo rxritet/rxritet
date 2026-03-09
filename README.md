@@ -111,7 +111,7 @@
 >
 > ---
 >
-> ### [SpoitHub / delux](https://github.com/SpoitHub/delux)
+> ### [SpoitHub](https://github.com/SpoitHub/delux)
 > **Командный fullstack-проект в домене sports / events / marketplace.**
 >
 > Что показывает проект:
