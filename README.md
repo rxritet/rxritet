@@ -17,38 +17,6 @@
 
 <br/>
 
-<!-- About Me -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<h2>💻 About Me</h2>
-
-<div>
-  <p>
-    <strong>Radmir Abraev</strong> — FullStack Developer with <strong>Backend Focus</strong>.<br/>
-    At <strong>AlmaU University</strong>: building production-like pet projects focused on architecture, testability and clean delivery.<br/>
-  </p>
-  <ul>
-    <li>🎓 University: <a href="https://almau.edu.kz">AlmaU</a> · 2nd year Software Engineering</li>
-    <li>🏙️ Location: Almaty, Kazakhstan</li>
-    <li>📧 Email: <a href="mailto:abraevradmir2@gmail.com">abraevradmir2@gmail.com</a></li>
-    <li>✈️ Telegram: <a href="https://t.me/rxritet">@rxritet</a></li>
-    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/radmir-abraev-186b393b0/">Radmir Abraev</a></li>
-  </ul>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## О себе
