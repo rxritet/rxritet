@@ -4,18 +4,50 @@
 
 <div align="center">
 
-# Привет, я Радмир 👋
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1600&color=A177F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Radmir+(rxritet);FullStack+Developer+%7C+Backend+Focus;Go+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing SVG" />
 
-### FullStack Developer · Backend Focus · Almaty, KZ
-
-Студент 2 курса Software Engineering.  
-Собираю production-like pet projects с фокусом на backend, архитектуру, тестируемость и понятную поставку в production.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radmir-abraev-186b393b0/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rxritet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraevradmir2@gmail.com)
 
 </div>
+
+<br/>
+
+<!-- About Me -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h2>💻 About Me</h2>
+
+<div>
+  <p>
+    <strong>Radmir Abraev</strong> — FullStack Developer with <strong>Backend Focus</strong>.<br/>
+    At <strong>AlmaU University</strong>: building production-like pet projects focused on architecture, testability and clean delivery.<br/>
+  </p>
+  <ul>
+    <li>🎓 University: <a href="https://almau.edu.kz">AlmaU</a> · 2nd year Software Engineering</li>
+    <li>🏙️ Location: Almaty, Kazakhstan</li>
+    <li>📧 Email: <a href="mailto:abraevradmir2@gmail.com">abraevradmir2@gmail.com</a></li>
+    <li>✈️ Telegram: <a href="https://t.me/rxritet">@rxritet</a></li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/radmir-abraev-186b393b0/">Radmir Abraev</a></li>
+  </ul>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
