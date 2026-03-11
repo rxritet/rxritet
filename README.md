@@ -387,7 +387,6 @@
 > - [x] Укрепить фундамент в Go.
 > - [x] Собрать несколько fullstack-проектов.
 > - [x] Получить опыт с REST API и backend-фреймворками.
-> - [x] Освоить Hono и Drizzle ORM в production-контексте.
 > - [x] Настроить раздельный деплой на Vercel (frontend + backend serverless).
 > - [ ] Усилить production-подход в pet-projects.
 > - [ ] Добавить больше тестов и CI-сценариев в ключевые репозитории.
