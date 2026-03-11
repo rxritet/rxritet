@@ -92,12 +92,19 @@
 > ---
 >
 > ### [MyTech](https://github.com/rxritet/MyTech)
-> **Сайт-визитка для показа работ, проектов и личного позиционирования.**
+> **Full-stack portfolio platform, построенная как production product.**
 >
 > Что показывает проект:
-> - умение упаковывать результат;
-> - аккуратную работу с интерфейсом и структурой;
-> - понимание, что developer profile и personal branding тоже важны.
+> - React 19 SPA + Vite + TypeScript на фронтенде с единым визуальным языком;
+> - backend API на Hono с валидацией через Zod и admin-защитой;
+> - Drizzle ORM + PostgreSQL для typed schema и управления данными;
+> - admin flow: редактирование About, CRUD проектов — без правки исходников;
+> - Docker Compose для локального запуска всего стека;
+> - раздельный деплой на Vercel: frontend и backend как отдельные Vercel projects.
+>
+> Почему это важно для компании:
+> - проект показывает, что я умею упаковать систему целиком — от UI до инфраструктуры;
+> - демонстрирует product thinking: не статичная визитка, а управляемая платформа с данными.
 >
 > ---
 >
@@ -143,10 +150,12 @@
       <h3>⚙️ Backend & БД</h3>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
       <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
     </td>
   </tr>
@@ -170,6 +179,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -201,7 +211,7 @@
 > - Go: `net/http`, CLI tooling, слоистая архитектура, явные ошибки.
 > - Java: OOP-структура, слои DTO/Service/Repository, JUnit-тесты.
 > - Python: FastAPI, Django REST Framework, ORM, миграции.
-> - TypeScript/Node: API-слой, строгая типизация, работа с DTO и валидацией.
+> - TypeScript/Node: Hono, строгая типизация, Zod-валидация, Drizzle ORM.
 >
 > **Data**
 >
@@ -211,13 +221,14 @@
 >
 > **Frontend / Mobile**
 >
-> - React, TypeScript, Tailwind CSS, Vite.
+> - React 19, TypeScript, Tailwind CSS 4, Vite 6.
 > - Flutter, Riverpod.
 >
 > **DevOps / Delivery**
 >
 > - Docker.
 > - GitHub Actions.
+> - Vercel (split frontend + backend serverless deployment).
 > - nginx.
 > - systemd.
 > - rsync-deploy.
@@ -240,6 +251,7 @@
 > - Zustand.
 > - React Hook Form.
 > - Zod.
+> - Drizzle ORM.
 > - Figma.
 > - n8n.
 >
@@ -375,6 +387,8 @@
 > - [x] Укрепить фундамент в Go.
 > - [x] Собрать несколько fullstack-проектов.
 > - [x] Получить опыт с REST API и backend-фреймворками.
+> - [x] Освоить Hono и Drizzle ORM в production-контексте.
+> - [x] Настроить раздельный деплой на Vercel (frontend + backend serverless).
 > - [ ] Усилить production-подход в pet-projects.
 > - [ ] Добавить больше тестов и CI-сценариев в ключевые репозитории.
 > - [ ] Построить фундамент в Java: слоистая архитектура, тесты, понятный код.
