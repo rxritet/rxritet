@@ -367,7 +367,7 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
     </td>
     <td align="center" style="border-bottom: 1px solid #30363d;">
-      <img height="195" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+      <img height="195" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1118" />
     </td>
   </tr>
 </table>
