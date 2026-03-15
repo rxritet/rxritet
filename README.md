@@ -58,66 +58,48 @@
 ### [Specto](https://github.com/rxritet/Specto)
 **Backend-first приложение для управления задачами и личной продуктивностью.**
 
-Что показывает проект:
-- Go backend без лишней магии, с акцентом на читаемость и контроль.
-- Работа с `net/http`, PostgreSQL, BoltDB, Cobra CLI, Mage, OpenTelemetry.
-- Продуманная структура приложения и разделение ответственности по слоям.
-- Production-like подход: конфиг, логирование, доставка, эксплуатация.
+Что показывает:
+- Go backend: `net/http`, PostgreSQL, BoltDB, Cobra CLI, Mage, OpenTelemetry.
+- Слоистая архитектура, явная обработка ошибок, production-like конфиг и логирование.
+- Полный жизненный цикл сервиса: запуск, конфигурация, доставка, эксплуатация.
 
-Почему это важно для компании:
-- проект показывает, что я умею думать не только про endpoint, но и про весь жизненный цикл сервиса;
-- умею собирать backend, который можно развивать, а не переписывать после первой итерации.
+**Почему важно:** показывает, что я думаю не только про endpoint, но и про весь backend целиком.
 
 ---
 
 ### [HabitDuel](https://github.com/rxritet/HabitDuel)
 **Fullstack mobile app для дуэлей по привычкам в формате 1v1.**
 
-Что показывает проект:
-- связку мобильного клиента и backend-логики;
-- работу с Flutter, Dart Shelf, PostgreSQL, JWT, WebSocket и Riverpod;
-- real-time взаимодействие, состояние пользователя, правила игры и валидацию сценариев;
-- применение Clean Architecture в реальном продукте, а не в абстрактном примере.
+Что показывает:
+- Flutter + Dart Shelf + PostgreSQL + JWT + WebSocket + Riverpod в связке.
+- Real-time взаимодействие, состояние пользователя, правила игры и валидация сценариев.
+- Clean Architecture в реальном продукте, а не в абстрактном примере.
 
-Почему это важно для компании:
-- проект показывает, что я умею держать в голове и клиент, и сервер, и пользовательский сценарий;
-- это уже не просто "экран + кнопка", а полноценный продуктовый кейс.
+**Почему важно:** держу в голове и клиент, и сервер, и пользовательский сценарий одновременно.
 
 ---
 
 ### [MyTech](https://github.com/rxritet/MyTech)
 **Full-stack portfolio platform, построенная как production product.**
 
-Что показывает проект:
-- React 19 SPA + Vite + TypeScript на фронтенде с единым визуальным языком;
-- backend API на Hono с валидацией через Zod и admin-защитой;
-- Drizzle ORM + PostgreSQL для typed schema и управления данными;
-- admin flow: редактирование About, CRUD проектов — без правки исходников;
-- Docker Compose для локального запуска всего стека;
-- раздельный деплой на Vercel: frontend и backend как отдельные Vercel projects.
+Что показывает:
+- React 19 + Vite + TypeScript SPA, backend API на Hono, Drizzle ORM + PostgreSQL.
+- Admin flow: CRUD проектов и редактирование About без правки исходников.
+- Docker Compose для локального стека + раздельный деплой на Vercel (frontend + backend).
 
-Почему это важно для компании:
-- проект показывает, что я умею упаковать систему целиком — от UI до инфраструктуры;
-- демонстрирует product thinking: не статичная визитка, а управляемая платформа с данными.
-
----
-
-### [Velora](https://github.com/rxritet/Velora)
-**Первое знакомство с Rust — небольшой pet-project.**
-
-Что показывает проект:
-- системный вход в новый язык;
-- готовность выходить за рамки привычного стека и пробовать новое.
+**Почему важно:** умею упаковать систему целиком — от UI до инфраструктуры.
 
 ---
 
 ### [SpoitHub](https://github.com/SpoitHub/delux)
 **Командный fullstack-проект в домене sports / events / marketplace.**
 
-Что показывает проект:
-- работу в более сложном продуктовом контексте;
-- взаимодействие фронтенда и backend API;
-- навыки командной разработки и более "боевую" структуру продукта.
+Что показывает:
+- Работа в более сложном продуктовом контексте, взаимодействие фронта и backend API.
+- Навыки командной разработки и "боевая" структура продукта.
+- Реальный сценарий: несколько участников, общий репозиторий, продуктовый домен.
+
+**Почему важно:** опыт не только соло-разработки, но и командного инженерного процесса.
 
 ---
 
@@ -332,13 +314,23 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="8" style="background: #0d1117; border-radius: 12px;">
   <tr>
-    <td align="center" style="border-bottom: 1px solid #30363d; border-right: 1px solid #30363d;">
+    <td align="center" colspan="2" style="padding-bottom: 4px;">
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
     </td>
-    <td align="center" style="border-bottom: 1px solid #30363d;">
-      <img height="195" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=011117" />
+  </tr>
+  <tr>
+    <td align="center">
+      <img height="195" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="http://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=2077" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=2077&utcOffset=5" />
     </td>
   </tr>
 </table>
