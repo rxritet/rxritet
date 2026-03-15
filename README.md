@@ -197,8 +197,6 @@
 
 ---
 
----
-
 ## Опыт и деятельность
 
 ### AlmaU — IT-отдел | Стажировка
@@ -313,28 +311,26 @@
 ## GitHub Статистика
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="8" style="background: #0d1117; border-radius: 12px;">
+<table border="0" cellspacing="0" cellpadding="10" bgcolor="#0d1117" width="100%">
   <tr>
-    <td align="center" colspan="2" style="padding-bottom: 4px;">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+    <td align="center" colspan="2" bgcolor="#0d1117">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img height="195" src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+    <td align="center" bgcolor="#0d1117">
+      <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A177F7&text_color=c9d1d9" />
     </td>
-    <td align="center">
-      <img src="http://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=2077" />
+    <td align="center" bgcolor="#0d1117">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=2077&utcOffset=5" />
+    <td align="center" colspan="2" bgcolor="#0d1117">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=github_dark&utcOffset=5" />
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
