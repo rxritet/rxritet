@@ -314,12 +314,12 @@
 <table border="0" cellspacing="0" cellpadding="10" bgcolor="#0d1117" width="100%">
   <tr>
     <td align="center" colspan="2" bgcolor="#0d1117">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
     </td>
   </tr>
   <tr>
     <td align="center" bgcolor="#0d1117">
-      <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A177F7&text_color=c9d1d9" />
+      <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
     </td>
     <td align="center" bgcolor="#0d1117">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark" />
