@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1600&color=A177F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Radmir+(rxritet);FullStack+Developer+%7C+Backend+Focus;Go+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing SVG" />
 
 <br/>
@@ -311,15 +310,43 @@
 ## GitHub Статистика
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="10" bgcolor="#0d1117" width="100%">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-      <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<!-- Row 1: Streak (wide) + Top Langs -->
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
+        alt="GitHub Streak"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A177F7&text_color=c9d1d9"
+        alt="Top Languages"
+        height="165"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark"
+        alt="Most Commit Language"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=github_dark&utcOffset=5"
+        alt="Productive Time"
+        height="165"
+      />
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<img src="http://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark" alt="Most Commit Language" />
-<img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 ---
