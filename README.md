@@ -315,6 +315,11 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=rxritet&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
       <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </table>
+
+<br/>
+
+<img src="http://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark" alt="Most Commit Language" />
+<img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 ---
