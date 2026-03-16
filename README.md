@@ -329,22 +329,6 @@
       />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img
-        src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxritet&theme=github_dark"
-        alt="Most Commit Language"
-        height="165"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=rxritet&theme=github_dark&utcOffset=5"
-        alt="Productive Time"
-        height="165"
-      />
-    </td>
-  </tr>
 </table>
 
 </div>
