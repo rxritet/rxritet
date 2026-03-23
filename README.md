@@ -55,26 +55,27 @@
 ## Избранные проекты
 
 ### [Specto](https://github.com/rxritet/Specto)
-**Backend-first приложение для управления задачами и личной продуктивностью.**
+**Банковский монорепозиторий: Go backend + Angular frontend.**
 
 Что показывает:
-- Go backend: `net/http`, PostgreSQL, BoltDB, Cobra CLI, Mage, OpenTelemetry.
-- Слоистая архитектура, явная обработка ошибок, production-like конфиг и логирование.
-- Полный жизненный цикл сервиса: запуск, конфигурация, доставка, эксплуатация.
+- Go backend: `net/http`, PostgreSQL + Redis + BoltDB (triple-store архитектура), Cobra CLI, `slog`, GitHub Actions CI.
+- Слоистая архитектура (domain / service / web), явная обработка ошибок, production-like конфиг через env.
+- Angular 19 + TypeScript frontend, Docker Compose инфраструктура, интеграционные тесты.
 
-**Почему важно:** показывает, что я думаю не только про endpoint, но и про весь backend целиком.
+**Почему важно:** проектирование не только endpoint, но и всего сервиса целиком — от миграций до CI/CD.
 
 ---
 
-### [HabitDuel](https://github.com/rxritet/HabitDuel)
-**Fullstack mobile app для дуэлей по привычкам в формате 1v1.**
+### [wn-lab](https://github.com/ORV-lab/wn-lab)
+**Fullstack-платформа для автоматизированного перевода веб-новелл с помощью ИИ.**
 
 Что показывает:
-- Flutter + Dart Shelf + PostgreSQL + JWT + WebSocket + Riverpod в связке.
-- Real-time взаимодействие, состояние пользователя, правила игры и валидация сценариев.
-- Clean Architecture в реальном продукте, а не в абстрактном примере.
+- Go + Echo v4 backend, Background Worker (Redis Queue), PostgreSQL, JWT + RBAC — в продуктовой связке.
+- React 18 + Vite + TypeScript SPA: diff-редактор, читалка, каталог с Meilisearch fuzzy-поиском.
+- Асинхронный пайплайн: LLM-провайдеры (Claude / Gemini), автоматический fallback, глоссарии для консистентного перевода.
 
-**Почему важно:** держу в голове и клиент, и сервер, и пользовательский сценарий одновременно.
+**Почему важно:** командный проект с реальным продуктовым доменом — показывает работу со сложной асинхронной архитектурой и нестандартной бизнес-логикой.
+
 
 ---
 
@@ -128,6 +129,8 @@
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -142,6 +145,7 @@
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
     </td>
   </tr>
   <tr>
