@@ -66,7 +66,7 @@
 
 ---
 
-### [wn-lab](https://github.com/ORV-lab/wn-lab)
+### [WN-lab](https://github.com/ORV-lab/wn-lab)
 **Fullstack-платформа для автоматизированного перевода веб-новелл с помощью ИИ.**
 
 Что показывает:
