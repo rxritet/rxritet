@@ -329,7 +329,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=011118&title_color=A177F7&text_color=c9d1d9"
+        src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=rxritet&layout=compact&theme=dark&hide_border=true&bg_color=021117&title_color=A177F7&text_color=c9d1d9"
         alt="Top Languages"
         height="165"
       />
