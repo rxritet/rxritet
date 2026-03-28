@@ -20,7 +20,7 @@
 
 ## О себе
 
-Студент 2 курса из Алматы. Пишу на Go, TypeScript и Java — в таком приоритете.  
+Студент 2 курса из Алматы. Пишу на Go и TypeScript — в таком приоритете. Также хочу изучить Java
 Мне важно не просто написать код, а довести проект до состояния, где его можно запустить, протестировать, развернуть и поддерживать.
 
 Сейчас я:
@@ -147,7 +147,6 @@
 > **Backend**
 >
 > - Go: `net/http`, CLI tooling, слоистая архитектура, явные ошибки.
-> - Java: OOP-структура, слои DTO/Service/Repository, JUnit-тесты.
 > - Python: FastAPI, Django REST Framework, ORM, миграции.
 > - TypeScript/Node: Hono, строгая типизация, Zod-валидация, Drizzle ORM.
 >
@@ -160,17 +159,17 @@
 > **Frontend / Mobile**
 >
 > - React 19, TypeScript, Tailwind CSS 4, Vite 6.
-> - Flutter, Riverpod.
+> - Flutter.
 >
 > **DevOps / Delivery**
 >
 > - Docker.
-> - GitHub Actions.
-> - Vercel (split frontend + backend serverless deployment).
+> - Vercel.
 > - nginx.
 > - systemd.
 > - rsync-deploy.
 > - Linux-based workflow.
+> - Supabase and Firebase
 >
 > **Качество и инженерные практики**
 >
